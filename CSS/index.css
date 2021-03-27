@@ -1,19 +1,42 @@
 .jumbotron{
-    background-image: url("https://images.unsplash.com/photo-1530728327726-b504480e42ec?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&auto=format&fit=crop&w=1489&q=80")
+    background-image: url("https://images.unsplash.com/photo-1530728327726-b504480e42ec?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&auto=format&fit=crop&w=1489&q=80");
+    height: 600px;
   }
-  
+
+.jumboB{
+    background-image: url("https://c4.wallpaperflare.com/wallpaper/983/559/603/dark-background-stock-microsoft-surface-go-bird-wallpaper-preview.jpg");
+    height: 400px;
+    background-size: cover;
+  }
+
+.jumboC{
+    background-image: url("https://media.altphotos.com/cache/images/2017/04/12/16/x800/egg-single-black.jpg");
+    height: 400px;
+    background-size: cover;
+  }
+
+  .jumboD{
+    background-image: url("https://images.unsplash.com/photo-1508491147681-20f6aa1a14a1?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&auto=format&fit=crop&w=1652&q=80");
+    height: 400px;
+    background-size: cover;
+  }
+
   .white{
-    color: white
+    color: white;
   }
   
   .bg-secondary{
-    color: #191815
+    color: #191815;
   }
   
   .left-aligned{
-    text-align: left
+    text-align: left;
   }
   
   .container{
-      background-size: cover
+      background-size: cover;
+  }
+
+  h1, h2, h3, h4{
+    font-family: Impact;
   }
