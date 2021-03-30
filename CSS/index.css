@@ -1,10 +1,14 @@
 .jumbotron{
-    background-image: url("https://images.unsplash.com/photo-1530728327726-b504480e42ec?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&auto=format&fit=crop&w=1489&q=80");
+    background: linear-gradient( rgba(0, 0, 0, 0.8), rgba(0, 0, 0, 0.8) ), url("https://images.unsplash.com/photo-1530728327726-b504480e42ec?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&auto=format&fit=crop&w=1489&q=80");
     height: 600px;
+  }
+  .jumbotronOver{
+    background-color: black;
+    
   }
 
 .jumboB{
-    background-image: url("https://c4.wallpaperflare.com/wallpaper/983/559/603/dark-background-stock-microsoft-surface-go-bird-wallpaper-preview.jpg");
+    background-image: url("https://c4.wallpaperflare.com/wallpaper/510/485/186/animals-birds-parrot-wallpaper-preview.jpg");
     height: 400px;
     background-size: cover;
   }
@@ -38,5 +42,18 @@
   }
 
   h1, h2, h3, h4{
-    font-family: Impact;
+    font-family: Oswald;
   }
+
+
+img {
+  width: 200px;
+  height: 100px;
+  object-fit: contain;
+
+}
+
+.VoteContainer{
+  padding: 300px;
+  text-align: left;
+}
