@@ -57,3 +57,12 @@ img {
   padding: 300px;
   text-align: left;
 }
+
+.footer {
+ 
+ left: 0;
+ bottom: 0;
+ width: 100%;
+ background-color: rgb(22, 22, 22);
+  color: white;
+  text-align: center;
